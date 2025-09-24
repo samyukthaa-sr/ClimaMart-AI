@@ -1,0 +1,120 @@
+Location,Category,Product,Weather,Temperature(°C),Humidity(%),Demand Level,Suggested Price Min (₹/kg),Suggested Price Max (₹/kg)
+Chennai,Vegetable,Onion,Mist,26.5,85,Medium,36,39
+Coimbatore,Vegetable,Tomato,"Cloudy, chance of rain",28.0,75,High,44,48
+Kancheepuram,Fruit,Banana,Mist,27.0,80,Medium,29,32
+Madurai,Vegetable,Potato,"Cloudy, chance of rain",28.5,70,Medium,28,32
+Salem,Fruit,Mango,"Cloudy, chance of rain",29.0,70,Medium,60,66
+Thanjavur,Vegetable,Cabbage,"Cloudy, isolated rain",29.0,75,Low,14,18
+Tiruchirappalli,Vegetable,Brinjal,"Cloudy, isolated rain",28.5,70,Medium,30,35
+Erode,Fruit,Guava,"Cloudy, chance of rain",27.5,70,Low,53,58
+Viluppuram,Vegetable,Chilli,"Cloudy, isolated rain",27.0,80,High,80,100
+Pudukkottai,Fruit,Papaya,"Cloudy, chance of rain",28.5,75,Medium,38,42
+Dindigul,Vegetable,Carrot,"Cloudy, chance of rain",24.0,80,Medium,48,55
+Krishnagiri,Fruit,Apple,Partly Cloudy,21.0,68,Medium,166,212
+Tiruvallur,Vegetable,Okra,"Cloudy, chance of rain",27.0,82,Medium,25,29
+Cuddalore,Vegetable,Tomato,"Cloudy, isolated rain",28.0,86,High,42,46
+Nagapattinam,Fruit,Banana,"Cloudy, isolated rain",27.0,83,Medium,30,33
+Kanyakumari,Vegetable,Cabbage,"Cloudy, isolated rain",25.0,86,Low,15,19
+Theni,Fruit,Grapes,Partly Cloudy,23.0,70,Medium,50,55
+Dharmapuri,Vegetable,Onion,"Cloudy, chance of rain",28.0,72,Medium,35,38
+Vellore,Fruit,Mango,Partly Cloudy,27.0,83,Medium,62,68
+Tiruppur,Vegetable,Brinjal,"Cloudy, chance of rain",27.0,73,Medium,31,36
+Ramanathapuram,Fruit,Watermelon,"Cloudy, isolated rain",29.0,80,Low,20,25
+Sivaganga,Vegetable,Potato,"Cloudy, isolated rain",28.0,78,Medium,27,31
+Thoothukudi,Fruit,Pomegranate,"Cloudy, isolated rain",29.5,84,Medium,120,150
+Tirunelveli,Vegetable,Chilli,"Cloudy, chance of rain",28.0,78,High,75,95
+Virudhunagar,Fruit,Guava,"Cloudy, chance of rain",27.0,76,Low,55,60
+Ariyalur,Vegetable,Okra,"Cloudy, isolated rain",27.0,81,Medium,24,28
+Chengalpattu,Fruit,Papaya,Mist,26.5,85,Medium,37,41
+Tiruvannamalai,Vegetable,Carrot,"Cloudy, chance of rain",26.0,80,Medium,47,54
+Tiruvarur,Fruit,Banana,"Cloudy, isolated rain",27.0,83,Medium,31,34
+Tenkasi,Vegetable,Brinjal,"Cloudy, chance of rain",26.0,78,Medium,32,37
+Ranipet,Fruit,Mango,Partly Cloudy,27.5,82,Medium,63,69
+Tirupathur,Vegetable,Tomato,Partly Cloudy,26.0,79,High,43,47
+Mayiladuthurai,Fruit,Grapes,"Cloudy, isolated rain",27.0,82,Medium,52,57
+Perambalur,Vegetable,Onion,"Cloudy, isolated rain",27.0,80,Medium,37,40
+Karur,Fruit,Watermelon,"Cloudy, chance of rain",28.0,74,Low,21,26
+Nilgiris,Vegetable,Potato,Partly Cloudy,20.0,70,Medium,30,34
+Krishnagiri,Vegetable,Cabbage,Partly Cloudy,21.0,68,Low,16,20
+Coimbatore,Fruit,Guava,"Cloudy, chance of rain",28.0,75,Low,54,59
+Chennai,Vegetable,Brinjal,Mist,26.5,85,Medium,31,36
+Kancheepuram,Vegetable,Okra,Mist,27.0,80,Medium,26,30
+Madurai,Fruit,Mango,"Cloudy, chance of rain",28.5,70,Medium,61,67
+Salem,Vegetable,Tomato,"Cloudy, chance of rain",29.0,70,High,45,49
+Thanjavur,Fruit,Banana,"Cloudy, isolated rain",29.0,75,Medium,30,33
+Tiruchirappalli,Vegetable,Onion,"Cloudy, isolated rain",28.5,70,Medium,38,41
+Erode,Fruit,Papaya,"Cloudy, chance of rain",27.5,70,Medium,39,43
+Viluppuram,Vegetable,Carrot,"Cloudy, isolated rain",27.0,80,Medium,49,56
+Pudukkottai,Fruit,Grapes,"Cloudy, chance of rain",28.5,75,Medium,51,56
+Dindigul,Vegetable,Chilli,"Cloudy, chance of rain",24.0,80,High,82,102
+Krishnagiri,Vegetable,Potato,Partly Cloudy,21.0,68,Medium,29,33
+Tiruvallur,Fruit,Apple,"Cloudy, chance of rain",27.0,82,Medium,168,215
+Cuddalore,Vegetable,Onion,"Cloudy, isolated rain",28.0,86,Medium,37,40
+Nagapattinam,Vegetable,Cabbage,"Cloudy, isolated rain",27.0,83,Low,15,19
+Kanyakumari,Fruit,Watermelon,"Cloudy, isolated rain",25.0,86,Low,21,26
+Theni,Vegetable,Tomato,Partly Cloudy,23.0,70,High,43,47
+Dharmapuri,Fruit,Guava,"Cloudy, chance of rain",28.0,72,Low,56,61
+Vellore,Vegetable,Brinjal,Partly Cloudy,27.5,82,Medium,33,38
+Tiruppur,Fruit,Mango,"Cloudy, chance of rain",27.0,73,Medium,64,70
+Ramanathapuram,Vegetable,Okra,"Cloudy, isolated rain",29.0,80,Medium,27,31
+Sivaganga,Fruit,Banana,"Cloudy, isolated rain",28.0,78,Medium,32,35
+Thoothukudi,Vegetable,Chilli,"Cloudy, isolated rain",29.5,84,High,78,98
+Tirunelveli,Fruit,Papaya,"Cloudy, chance of rain",28.0,78,Medium,40,44
+Virudhunagar,Vegetable,Carrot,"Cloudy, chance of rain",27.0,76,Medium,50,57
+Ariyalur,Fruit,Grapes,"Cloudy, isolated rain",27.0,81,Medium,53,58
+Chengalpattu,Vegetable,Potato,Mist,26.5,85,Medium,29,33
+Tiruvannamalai,Fruit,Watermelon,"Cloudy, chance of rain",26.0,80,Low,22,27
+Tiruvarur,Vegetable,Onion,"Cloudy, isolated rain",27.0,83,Medium,36,39
+Tenkasi,Fruit,Guava,"Cloudy, chance of rain",26.0,78,Low,57,62
+Ranipet,Vegetable,Tomato,Partly Cloudy,27.5,82,High,46,50
+Tirupathur,Fruit,Mango,Partly Cloudy,26.0,79,Medium,65,71
+Mayiladuthurai,Vegetable,Cabbage,"Cloudy, isolated rain",27.0,82,Low,17,21
+Perambalur,Fruit,Banana,"Cloudy, isolated rain",27.0,80,Medium,33,36
+Karur,Vegetable,Brinjal,"Cloudy, chance of rain",28.0,74,Medium,34,39
+Nilgiris,Fruit,Apple,Partly Cloudy,20.0,70,Medium,170,220
+Krishnagiri,Vegetable,Okra,Partly Cloudy,21.0,68,Medium,28,32
+Coimbatore,Fruit,Papaya,"Cloudy, chance of rain",28.0,75,Medium,41,45
+Chennai,Vegetable,Carrot,Mist,26.5,85,Medium,51,58
+Kancheepuram,Fruit,Grapes,Mist,27.0,80,Medium,54,59
+Madurai,Vegetable,Chilli,"Cloudy, chance of rain",28.5,70,High,84,105
+Salem,Fruit,Watermelon,"Cloudy, chance of rain",29.0,70,Low,23,28
+Thanjavur,Vegetable,Potato,"Cloudy, isolated rain",29.0,75,Medium,30,34
+Tiruchirappalli,Fruit,Guava,"Cloudy, isolated rain",28.5,70,Low,58,63
+Erode,Vegetable,Onion,"Cloudy, chance of rain",27.5,70,Medium,39,42
+Viluppuram,Fruit,Mango,"Cloudy, isolated rain",27.0,80,Medium,66,72
+Pudukkottai,Vegetable,Tomato,"Cloudy, chance of rain",28.5,75,High,46,50
+Dindigul,Fruit,Banana,"Cloudy, chance of rain",24.0,80,Medium,34,37
+Krishnagiri,Vegetable,Brinjal,Partly Cloudy,21.0,68,Medium,35,40
+Tiruvallur,Fruit,Papaya,"Cloudy, chance of rain",27.0,82,Medium,42,46
+Cuddalore,Vegetable,Okra,"Cloudy, isolated rain",28.0,86,Medium,28,32
+Nagapattinam,Fruit,Watermelon,"Cloudy, isolated rain",27.0,83,Low,22,27
+Kanyakumari,Vegetable,Carrot,"Cloudy, isolated rain",25.0,86,Medium,52,59
+Theni,Fruit,Apple,Partly Cloudy,23.0,70,Medium,172,225
+Dharmapuri,Vegetable,Onion,"Cloudy, chance of rain",28.0,72,Medium,38,41
+Vellore,Fruit,Grapes,Partly Cloudy,27.5,82,Medium,55,60
+Tiruppur,Vegetable,Chilli,"Cloudy, chance of rain",27.0,73,High,85,108
+Ramanathapuram,Fruit,Guava,"Cloudy, isolated rain",29.0,80,Low,59,64
+Sivaganga,Vegetable,Tomato,"Cloudy, isolated rain",28.0,78,High,45,49
+Thoothukudi,Fruit,Banana,"Cloudy, isolated rain",29.5,84,Medium,35,38
+Tirunelveli,Vegetable,Potato,"Cloudy, chance of rain",28.0,78,Medium,31,35
+Virudhunagar,Fruit,Watermelon,"Cloudy, chance of rain",27.0,76,Low,24,29
+Ariyalur,Vegetable,Cabbage,"Cloudy, isolated rain",27.0,81,Low,18,22
+Chengalpattu,Fruit,Mango,Mist,26.5,85,Medium,68,74
+Tiruvannamalai,Vegetable,Onion,"Cloudy, chance of rain",26.0,80,Medium,39,42
+Tiruvarur,Fruit,Papaya,"Cloudy, isolated rain",27.0,83,Medium,43,47
+Tenkasi,Vegetable,Brinjal,"Cloudy, chance of rain",26.0,78,Medium,33,38
+Ranipet,Fruit,Grapes,Partly Cloudy,27.5,82,Medium,56,61
+Tirupathur,Vegetable,Okra,Partly Cloudy,26.0,79,Medium,27,31
+Mayiladuthurai,Fruit,Apple,"Cloudy, isolated rain",27.0,82,Medium,175,230
+Perambalur,Vegetable,Carrot,"Cloudy, isolated rain",27.0,80,Medium,53,60
+Karur,Fruit,Guava,"Cloudy, chance of rain",28.0,74,Low,60,65
+Nilgiris,Vegetable,Tomato,Partly Cloudy,20.0,70,High,48,52
+Krishnagiri,Fruit,Banana,Partly Cloudy,21.0,68,Medium,34,37
+Coimbatore,Vegetable,Onion,"Cloudy, chance of rain",28.0,75,Medium,39,42
+Chennai,Fruit,Watermelon,Mist,26.5,85,Low,24,29
+Kancheepuram,Vegetable,Potato,Mist,27.0,80,Medium,30,34
+Madurai,Fruit,Papaya,"Cloudy, chance of rain",28.5,70,Medium,44,48
+Salem,Vegetable,Brinjal,"Cloudy, chance of rain",29.0,70,Medium,35,40
+Thanjavur,Fruit,Guava,"Cloudy, isolated rain",29.0,75,Low,61,66
+Tiruchirappalli,Vegetable,Okra,"Cloudy, isolated rain",28.5,70,Medium,29,33
+Erode,Fruit,Mango,"Cloudy, chance of rain",27.5,70,Medium,60,66
