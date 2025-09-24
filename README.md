@@ -141,6 +141,7 @@ Enter weather (name or number): 1
 ==================================================
 PREDICTION RESULTS FOR COIMBATORE
 ==================================================
+PREDICTION RESULTS FOR COIMBATORE
 Weather Condition: Cloudy, chance of rain
 
 HIGH DEMAND PRODUCT:
@@ -161,4 +162,5 @@ MEDIUM DEMAND PRODUCTS:
 * 📡 Integrate real-time weather API for live predictions.
 * 📊 Deploy as a Flask/Streamlit web app for user-friendly access.
 * 🔮 Use Deep Learning models (LSTM, GRU) for time-series price forecasting.
+
 * 🏪 Expand dataset with more locations, seasons, and crops.
